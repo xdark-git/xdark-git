@@ -11,9 +11,4 @@ I'm a Full Stack Developer focused on creating efficient, user-friendly applicat
 
 ## 🔗 Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/konteye)  
-- [Email](mailto:konteyemouhamadou@gmail.com)
-
----
-
-Feel free to explore my projects and reach out for collaboration opportunities!
+- [LinkedIn](https://linkedin.com/in/konteye)
